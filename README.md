@@ -21,7 +21,7 @@ On the client
 
 Then just
 
-`git push docker`
+`git push docker master`
 
 And your repo will be pushed to the server, the Dockerfile will be built and then run.
 
