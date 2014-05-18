@@ -1,0 +1,27 @@
+{
+  "name": "ShipJS",
+  "version": "0.0.1",
+  "description": "A super small script to allow pushing and deploying Docker containers from Git",
+  "main": "ship.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "git",
+    "ship",
+    "docker",
+    "push",
+    "deploy",
+    "container"
+  ],
+  "author": "Matt Hayward",
+  "license": "BSD",
+  "dependencies": {
+    "cicada": "~1.1.1",
+    "connect": "~2.16.1",
+    "mkdirp": "~0.5.0",
+    "socket.io": "~0.9.16"
+  },
+  "devDependencies": {},
+  "repository": ""
+}
